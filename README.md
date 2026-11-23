@@ -6,7 +6,7 @@ Self-hosted bookmark manager — minimal, fast, and easy to set up. Save links w
 
 *Screenshot from the upstream linkding README ([sissbruecker/linkding](https://github.com/sissbruecker/linkding), MIT).*
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.com/deploy/linkding?utm_campaign=linkding)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.com/deploy/linkding-3?utm_campaign=linkding)
 
 ## Source Repository
 

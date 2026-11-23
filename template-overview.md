@@ -1,6 +1,6 @@
 # Deploy and Host
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.com/deploy/linkding?utm_campaign=linkding)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.com/deploy/linkding-3?utm_campaign=linkding)
 
 ![Linkding bookmarks list](https://raw.githubusercontent.com/INAPP-Mobile/linkding/main/assets/linkding-screenshot.png)
 
