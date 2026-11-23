@@ -1,0 +1,22 @@
+<svg width="800" height="800" viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#15171A"/>
+      <stop offset="100%" stop-color="#5856E0"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="800" rx="120" fill="url(#bg)"/>
+  <g transform="translate(400,400) scale(1.2444) translate(-287,-286)">
+<g transform="matrix(1.18075,0,0,1.18075,-1265.31,-1395.82)">
+        <circle cx="1314.98" cy="1424.52" r="190.496" style="fill:rgb(88,86,224);"/>
+    </g>
+<g transform="matrix(0.823127,0,0,0.823127,-786.171,-888.198)">
+        <g transform="matrix(0.707351,0.706862,-0.706862,0.707351,1331.93,-512.804)">
+            <path d="M1244.39,1293.95L1244.39,1493.59C1244.39,1493.59 1243.58,1561.48 1319.29,1562.47C1395.27,1563.46 1394.17,1493.59 1394.17,1493.59L1394.17,1293.95" style="fill:none;stroke:white;stroke-width:35.43px;"/>
+        </g>
+        <g transform="matrix(-0.710067,-0.704134,0.704134,-0.710067,1284.12,3366.41)">
+            <path d="M1244.39,1293.95L1244.39,1493.59C1244.39,1493.59 1243.58,1561.48 1319.29,1562.47C1395.27,1563.46 1394.17,1493.59 1394.17,1493.59L1394.17,1293.95" style="fill:none;stroke:white;stroke-width:35.43px;"/>
+        </g>
+    </g>
+  </g>
+</svg>

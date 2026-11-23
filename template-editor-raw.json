@@ -1,0 +1,1 @@
+{"LD_SUPERUSER_PASSWORD":{"description":"Password for the auto-created admin user (username admin).","value":"${{secret(16)}}"}}

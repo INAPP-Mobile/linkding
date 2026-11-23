@@ -1,0 +1,1 @@
+{"LD_SUPERUSER_PASSWORD":{"defaultValue":"${{secret(16)}}","description":"Password for the auto-created admin user (username admin).","isOptional":false}}
